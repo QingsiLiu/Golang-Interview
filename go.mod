@@ -1,1 +1,3 @@
-module "Golang-Interview"
+module Golang-Interview
+
+go 1.15
